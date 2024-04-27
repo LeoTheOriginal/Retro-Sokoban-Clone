@@ -21,13 +21,13 @@ To install and run the project locally, follow these steps:
    ```bash
    git clone https://github.com/LeoTheOriginal/Retro-Sokoban-Clone.git
 2. Open the project in an environment that supports C++17, e.g., Microsoft Visual Studio.
-3. Ensure you have the correct version of SFML installed. You can use NuGet to install SFML by right-clicking on the project in Visual Studio, selecting 'Manage NuGet Packages', and searching for 'SFML'.
+3. Ensure you have the correct version of SFML installed. You can use NuGet to install SFML by right-clicking on the project in Visual Studio, selecting `Manage NuGet Packages`, and searching for `SFML`.
 
 ## Usage
-Run the program from your IDE or command line. The game is controlled using arrow keys. You can also undo moves using the 'Ctrl+Z' key combination.
+Run the program from your IDE or command line. The game is controlled using arrow keys. You can also undo moves using the `Ctrl+Z` key combination.
 
 ## Contributing
-If you would like to contribute to the development of the project, you can 'fork' the repository and then send 'pull requests' with new features, fixes, or documentation.
+If you would like to contribute to the development of the project, you can `fork` the repository and then send `pull requests` with new features, fixes, or documentation.
 
 ## Author
 - **Dawid Piotrowski** - *Initial work* - [LeoTheOriginal](https://github.com/LeoTheOriginal)
