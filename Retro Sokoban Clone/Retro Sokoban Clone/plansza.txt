@@ -1,0 +1,11 @@
+****XXXXX***********
+****X   X***********
+****XB  X***********
+**XXX  BXX**********
+**X  B B X**********
+XXX X XX XXXXXXXXXX*
+X   X XX        PPX*
+X B  B          PPX*
+XXXXX XXX  S    PPX*
+****XXXXXXXXXXXXXXX*
+****XXXXXXX*********
