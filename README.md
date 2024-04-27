@@ -1,33 +1,33 @@
 # Retro Sokoban Clone
 
-Projekt Retro Sokoban Clone to gra logiczna typu Sokoban, stworzona w języku C++ z wykorzystaniem biblioteki SFML. Gra pozwala na manipulację skrzynkami w ograniczonej przestrzeni z celem ich umieszczenia na odpowiednich miejscach.
+The Retro Sokoban Clone project is a Sokoban-type logic game, created in C++ using the SFML library. The game allows for the manipulation of boxes within a limited space with the objective of placing them in designated locations.
 
-## Wprowadzenie
+## Introduction
 
-Gra Sokoban jest klasyczną grą logiczną, w której gracz musi przesuwać skrzynki na oznaczone miejsca na mapie. Retro Sokoban Clone przenosi tę koncepcję do środowiska graficznego z wykorzystaniem C++ i SFML, oferując interfejs użytkownika i grafikę zgodną z nowoczesnymi standardami.
+The Sokoban game is a classic logic game in which the player must move boxes to marked places on the map. Retro Sokoban Clone takes this concept into a graphical environment using C++ and SFML, offering a user interface and graphics that comply with modern standards.
 
-## Technologie
+## Technologies
 
-Projekt został zaimplementowany z użyciem następujących technologii:
-- C++ (standard ISO C++17 `/std:c++17`)
+The project was implemented using the following technologies:
+- C++ (ISO C++17 standard `/std:c++17`)
 - SFML (Simple and Fast Multimedia Library)
-- NuGet dla łatwego zarządzania zależnościami SFML
+- NuGet for easy management of SFML dependencies
 
-## Instalacja
+## Installation
 
-Aby zainstalować i uruchomić projekt lokalnie, wykonaj następujące kroki:
+To install and run the project locally, follow these steps:
 
-1. Sklonuj repozytorium na swoje urządzenie:
+1. Clone the repository to your device:
    ```bash
    git clone https://github.com/LeoTheOriginal/Retro-Sokoban-Clone.git
-2. Otwórz projekt w środowisku, które obsługuje C++17, np. Microsoft Visual Studio.
-3. Upewnij się, że masz zainstalowaną odpowiednią wersję SFML. Możesz użyć NuGet do zainstalowania SFML klikając PPM na projekt w Visual Studio, wybierając `Manage NuGet Packages` i wyszukując `SFML`.
+2. Open the project in an environment that supports C++17, e.g., Microsoft Visual Studio.
+3. Ensure you have the correct version of SFML installed. You can use NuGet to install SFML by right-clicking on the project in Visual Studio, selecting 'Manage NuGet Packages', and searching for 'SFML'.
 
-## Sposób użycia
-Uruchom program z poziomu swojego IDE lub z linii komend. Sterowanie w grze odbywa się za pomocą klawiszy strzałek. Możesz również cofnąć ruch, korzystając z kombinacji klawiszy `Ctrl+Z`.
+## Usage
+Run the program from your IDE or command line. The game is controlled using arrow keys. You can also undo moves using the 'Ctrl+Z' key combination.
 
 ## Contributing
-Jeśli chcesz przyczynić się do rozwoju projektu, możesz tworzyć `fork` repozytorium, a następnie wysyłać `pull requests` z nowymi funkcjonalnościami, poprawkami lub dokumentacją.
+If you would like to contribute to the development of the project, you can 'fork' the repository and then send 'pull requests' with new features, fixes, or documentation.
 
-## Autor
-- **Piotrowski Dawid** - *Początkowa praca* - [LeoTheOriginal](https://github.com/LeoTheOriginal)
+## Author
+- **Dawid Piotrowski** - *Initial work* - [LeoTheOriginal](https://github.com/LeoTheOriginal)
